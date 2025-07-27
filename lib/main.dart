@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'pages/shape_game.dart';
+import 'screens/shape_game.dart';
 
 void main() {
   runApp(const MyApp());
